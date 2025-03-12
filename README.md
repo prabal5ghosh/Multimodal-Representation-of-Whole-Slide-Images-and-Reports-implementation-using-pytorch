@@ -6,6 +6,8 @@
  Prabal Ghosh1[0009−0004−3449−5811]
  Universite Cote d’Azur, Sophia Antipolis, France
  prabal5ghosh@gmail.com
+
+ ### course - Medical Imageing 
  
 Abstract. Digital pathology has ushered in a new era of multimodal biomedical data acquisi
 tion, combining high-resolution whole slide images (WSIs) and detailed pathology reports. This

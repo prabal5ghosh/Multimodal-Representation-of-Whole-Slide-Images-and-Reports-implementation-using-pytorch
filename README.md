@@ -9,8 +9,7 @@
 
  ### course - Medical Imaging 
  
-Abstract. Digital pathology has ushered in a new era of multimodal biomedical data acquisi
-tion, combining high-resolution whole slide images (WSIs) and detailed pathology reports. This
+Abstract. Digital pathology has ushered in a new era of multimodal biomedical data acquisition, combining high-resolution whole slide images (WSIs) and detailed pathology reports. This
  paper presents a deep learning framework that fuses these two modalities to form a unified
  representation, thereby enhancing classification, retrieval, and interpretability in computational
  pathology. In this report, we summarize the paper’s motivation, methodology, experimental
